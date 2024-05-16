@@ -6,7 +6,7 @@ Lo que hice fue usar un bucle while True para estar iterando todas las veces mie
 las incoincidencias de su palabra, y para validarlas use los tan comunes if elif.
 En cuanto al codigo no es mucho ya que el programa es simple.
 
-# proyecto-python(proyecto_2)
+# proyecto_python(proyecto_2)
 En cuanto a éste programa me tarde un poco más por que habia varias maneras de hacerlo, 
 se trata de el cuadro carteciano pues ya que cuenta con cuatro cuadrantes y dos lineas,
 absisas y ordenadas.Lo que se trata es de que el programa le  pide dos coordenadas al usuario por medio de un imput

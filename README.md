@@ -1,4 +1,4 @@
-# Proyectos_python_modulo2
+# Proyecto_python(proyecto_1)
 HOLA! bueno sólo queria hacer una pequeña redacción sobre éstos dos proyectos.
 El primero se trata de que el usuario deve ingresar una palabra, la que sea.
 Así que basicamete lo que hace el programa es validar que tenga como minimo cuatro caracteres y maximo 8.
@@ -6,7 +6,7 @@ Lo que hice fue usar un bucle while True para estar iterando todas las veces mie
 las incoincidencias de su palabra, y para validarlas use los tan comunes if elif.
 En cuanto al codigo no es mucho ya que el programa es simple.
 
-# proyecto_2 modulo 2
+# proyecto-python(proyecto_2)
 En cuanto a éste programa me tarde un poco más por que habia varias maneras de hacerlo, 
 se trata de el cuadro carteciano pues ya que cuenta con cuatro cuadrantes y dos lineas,
 absisas y ordenadas.Lo que se trata es de que el programa le  pide dos coordenadas al usuario por medio de un imput
